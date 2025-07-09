@@ -1,3 +1,5 @@
+这里基于matlab的程序开发主要适用于Verasonics超声/光声开发平台
+
 1、初学者快速入门需要有至少C语言或者其他编程语言的基础，如果缺少，或者不熟练，欢迎花三四个小时学习一下菜鸟教程 https://www.cainiaojc.com/matlab/matlab-tutorial.html
 ![image](https://github.com/user-attachments/assets/90b14c1b-1dd6-42b2-9545-257eecad0eec)
 
