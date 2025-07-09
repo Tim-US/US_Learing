@@ -6,4 +6,5 @@ MATLAB 基础教程-台大郭彦甫
 📺 视频 https://www.bilibili.com/video/BV1DA411Y7bN/
 📄 课件和笔记 https://github.com/ZachL1/Bilibili-plus/tree/master/MATLAB-Base-YanfuKuo
 🙏 转载来源 https://github.com/ZachL1/Bilibili-plus
+
 3、值得注意的是，对于初学者而言，从事项目开发并不需要你对这些matlab基础、线性代数、概率论等掌握的非常扎实，真实的开发是在边做边学，多多锻炼你的快速学习能力、快速应用能力、快速解决问题的能力。
